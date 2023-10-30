@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @francobagnoliunifi
--  I'ma professor of physics at the University of Florence (italy)
+- 👋 Hi, my name if Franco Bagnoli
+-  I'm a prefessor of physics at the University of Florence (italy)
 -  I'm interested in complex systems (i.e., computational simple systems with unexpected complex behavior) 
 -  I'm also interested in cognitive systens.
 -  Contact: franco.bagnoli@unifi.it
